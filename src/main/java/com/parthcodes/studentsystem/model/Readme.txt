@@ -1,0 +1,1 @@
+This "model" package will be used to store the entities and getter and setter also the constructors as well
